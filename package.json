@@ -1,0 +1,27 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "this is in pass",
+  "main": "app.js",
+  "scripts": {
+    "test": "ss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodNeverCold/code.git"
+  },
+  "keywords": [
+    "ss"
+  ],
+  "author": "ct520",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloodNeverCold/code/issues"
+  },
+  "homepage": "https://github.com/bloodNeverCold/code#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "superagent": "^2.3.0"
+  }
+}
